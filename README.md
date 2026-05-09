@@ -77,5 +77,3 @@ Es el mapa que conecta lo que el usuario escribe en el navegador con la View cor
 - No suban la base de datos (db.sqlite3): Cada uno tiene la suya local para pruebas.
 
 - Migraciones: Si tocan el models.py, avisen al grupo antes de subir los archivos de migrations/.
-
-- Comentarios: Escriban código para humanos. Si una lógica es compleja, dejen un breve comentario explicando el "por qué".
